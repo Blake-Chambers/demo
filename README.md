@@ -7,3 +7,5 @@ More text
 # Heading 2
 
 this is bound to cause trouble
+
+modified
